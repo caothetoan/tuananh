@@ -1,4 +1,8 @@
 ### Hi there 👋
 
-![Tuan Anh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuananh&hide=["stars"]&show_icons=true)
-![](https://visitor-badge.glitch.me/badge?page_id=github.tuananh)
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tuananh&count_private=true&show_icons=true" />
+</span>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh" />
+</span>
